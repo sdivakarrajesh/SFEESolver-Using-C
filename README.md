@@ -1,6 +1,6 @@
 # SFEESolver Using C
 
-##What this program does?
+##  What this program does?
 
 It is the most condensed version of the [SFEE Solver Android app](https://play.google.com/store/apps/details?id=com.dev.theblueorb.sfeesolver&hl=en) available in the play store
 
